@@ -1,3 +1,10 @@
+LINK CPANEL
+https://960406830.facturalo.co/Docusaurus/docs/intro
+LINK GITHUBPAGES
+https://zerobertocf.github.io/Docsaurus/docs/category/-tutorial---inspector
+
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
