@@ -1,9 +1,16 @@
-LINK CPANEL
+
+# LINK CPANEL
 https://960406830.facturalo.co/Docusaurus/docs/intro
 
-
-LINK GITHUBPAGES
+# LINK GITHUBPAGES
 https://zerobertocf.github.io/Docsaurus/docs/category/-tutorial---inspector
+
+# Proyecto: Sitio con Docusaurus – Guía del "Inspeccionar elemento"
+
+Implementacion de un sitio web utilizando Docusaurus, una herramienta moderna para generar documentación estática basada en React.
+El objetivo principal del proyecto fue diseñar una documentación técnica que explique, de forma accesible, cómo funciona la herramienta
+"Inspeccionar elemento" que viene incorporada en los navegadores web (como Chrome, Firefox y Edge).
+
 
 
 
