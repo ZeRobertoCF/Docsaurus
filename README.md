@@ -1,6 +1,6 @@
 
 # LINK CPANEL
-https://960406830.facturalo.co/Docusaurus/docs/intro
+https://960406830.facturalo.co/docusaurus/docs/intro
 
 # LINK GITHUBPAGES
 https://zerobertocf.github.io/Docsaurus/docs/category/-tutorial---inspector
